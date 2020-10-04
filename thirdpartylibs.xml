@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<libraries>
+    <library>
+        <location>fonts</location>
+        <name>opendyslexic</name>
+        <version>3</version>
+        <license>Bitstream Vera Sans license</license>
+        <licenseversion></licenseversion>
+    </library>
+</libraries>
