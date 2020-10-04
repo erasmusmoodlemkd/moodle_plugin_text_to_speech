@@ -1,9 +1,3 @@
-=============================
-  English version
-=============================
-
-This block allow to change the default font of your Moodle site by a specific font for dyslexic people : OpenDyslexic (from http://opendyslexic.org/).
-
 How to use it ?
 1/ Install the block like other blocks
 2/ Visit the Administration > Site administration > Appearance > Additionnal HTML (MY_MOODLE_SITE.com/admin/settings.php?section=additionalhtml)
